@@ -2,3 +2,5 @@
 Material de la Clase de Sismología Ambiental Centro de Geociencias UNAM
 
 hola
+ amigos de la clase
+
